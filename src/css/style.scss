@@ -1,0 +1,15 @@
+// config
+@import "config/_variables.scss";
+@import "config/_mixin.scss";
+@import "config/_reset.scss";
+
+// parts
+
+//
+// common
+//
+::selection {
+}
+* {
+  box-sizing: border-box;
+}

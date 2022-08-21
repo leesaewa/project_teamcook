@@ -2,7 +2,7 @@
 
 - <a href="https://github.com/leesaewa/project_teamcook/blob/main/coding_style_guide.md#html-coding-style-guide">HTML Coding Style Guide</a>
 - <a href="https://github.com/leesaewa/project_teamcook/blob/main/coding_style_guide.md#CSS-Coding-Style-Guide">CSS Coding Style Guide</a>
-- <a href=""></a>
+- <a href="https://github.com/leesaewa/project_teamcook/blob/main/coding_style_guide.md#VSCODE-setting">VSCODE setting</a>
 
 # HTML Coding Style Guide
 
