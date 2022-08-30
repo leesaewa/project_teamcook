@@ -1,0 +1,21 @@
+main {
+  section {
+    height: 100vh;
+
+    &#main {
+      background-color: $black;
+      position: relative;
+
+      &:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        height: 100vh;
+        background: $mainColor;
+        width: 50%;
+      }
+    }
+  }
+}

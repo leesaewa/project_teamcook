@@ -1,0 +1,13 @@
+header {
+  position: fixed;
+  @include flexbox($flexJC: space-between);
+  top: 0;
+  left: 0;
+  border: 1px solid red;
+  height: 5rem;
+  z-index: 1;
+
+  a {
+    color: $white;
+  }
+}
