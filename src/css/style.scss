@@ -4,6 +4,8 @@
 @import "config/_reset.scss";
 
 // parts
+@import "parts/_header.scss";
+@import "parts/_main.scss";
 
 //
 // common
@@ -12,4 +14,18 @@
 }
 * {
   box-sizing: border-box;
+}
+
+//
+// font
+//
+// font-family: 'Caveat', cursive;
+// font-family: 'Noto Sans JP', sans-serif;
+// font-family: 'Staatliches', cursive;
+//
+.eng-cursive {
+  font-family: "Caveat", cursive;
+}
+.eng {
+  font-family: "Staatliches", cursive;
 }
